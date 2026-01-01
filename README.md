@@ -1,6 +1,11 @@
-
 # 💫 About Me:
-I'm a Software Engineering Student at MUET SZAB Campus<br>I'm Currently working as an Q/A Prompt Engineer (Intern) at 99 Technologies Islamabad<br>I have got Certification for DIT from IBA IET Khairpur<br>I have got Certification as IT Support Fundamentals from Google<br>I'm Basically working on Cyber Security as My Career Path <br>right now I'm bignner but I'm Scaling up my Skills in this field.<br> <br>
+I'm a Software Engineering Student at MUET SZAB CampusI'm Currently working as an Q/A Prompt Engineer (Intern) at 99 Technologies Islamabad.I have got Certification for DIT from IBA IET Khairpur<br>I have got Certification as IT Support Fundamentals from Google. I'm Basically working on Cyber Security as My Career Path <br>right now I'm bignner but I'm Scaling up my Skills in this field.<br> <br>
+I’m a passionate Software Engineering student with a strong foundation in IT and software quality assurance.<br> Currently, I’m working as a QA Prompt Engineer Intern, where I focus on creating, refining, and validating prompts to generate accurate test cases and improve software quality.<br>
+I have completed professional certifications in DIT and IT Support Fundamentals by Google<br> which strengthened my understanding of computer systems, operating systems, networking, troubleshooting, and customer-focused technical support.<br>
+My long-term career goal is Cyber Security.<br> I’m currently at a beginner level, but I’m actively scaling up my skills by learning security fundamentals, system internals, networking concepts, and hands-on tools. I believe in continuous learning and building practical knowledge step by step.<br> <br>
+<br> <br>
+🤝 Let’s Connect<br>
+I’m always open to learning, collaboration, and growth opportunities in Software Engineering, QA, and Cyber Security.<br> <br>
 
 
 ## 🌐 Socials:
